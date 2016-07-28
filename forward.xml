@@ -1,6 +1,6 @@
 <Response>
 <SpeakSentence gender="male" locale="en_US" voice="paul">Transferring your call, please wait while you are being tranfered.</SpeakSentence>
-<Transfer transferCallerId="" statusCallbackUrl="http://requestb.in/1jbb2sp1">
+<Transfer transferCallerId="">
   <PhoneNumber>+19197891146</PhoneNumber>
   <PhoneNumber>+19083618157</PhoneNumber>
   <PhoneNumber>+19197891149</PhoneNumber>
