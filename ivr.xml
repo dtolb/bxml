@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Gather requestUrl="http://requestb.in/12jcfnu1" requestUrlTimeout="10000" terminatingDigits="#">
+<SpeakSentence gender="female" locale="en_US" voice="susan">Please, press a 1 to conntect with sales.</SpeakSentence>
+</Gather>
+</Response>
