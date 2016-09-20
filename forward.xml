@@ -1,6 +1,10 @@
 <Response>
-<SpeakSentence gender="male" locale="en_US" voice="paul">Transferring your call, please wait.</SpeakSentence>
-<Transfer transferCallerId="+13204601154" transferTo="+19197891146">
-<SpeakSentence gender="male" locale="en_US" voice="paul">Inner speak sentence.</SpeakSentence>
+<SpeakSentence gender="male" locale="en_US" voice="paul">Transferring your call, please wait while you are being tranfered.</SpeakSentence>
+<Transfer transferCallerId="">
+  <PhoneNumber>+19197891146</PhoneNumber>
+  <PhoneNumber>+19083618157</PhoneNumber>
+  <PhoneNumber>+19197891149</PhoneNumber>
+</Transfer>
+<SpeakSentence gender="male" locale="en_US" voice="paul">Dogs are better than cats.</SpeakSentence>
 </Transfer>
 </Response>

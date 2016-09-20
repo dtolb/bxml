@@ -1,0 +1,6 @@
+<Response>
+  <SpeakSentence gender="male" locale="en_US" voice="paul">Transferring your call, please wait.</SpeakSentence>
+  <Transfer transferCallerId="+17863846837" transferTo="+19192381504">
+    <SpeakSentence gender="male" locale="en_US" voice="paul">Yo, you gotta call, man.</SpeakSentence>
+  </Transfer>
+</Response>
