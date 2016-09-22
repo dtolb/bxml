@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<SpeakSentence voice="paul" gender="male" locale="en_US">Recording your call, type 1 2 3 4 * to stop recording</SpeakSentence>
+	<Record requestUrl="http://requestb.in/routjaro" terminatingDigits="1234*" maxDuration="60"/ >
+</Response>
