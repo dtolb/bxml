@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
 <SpeakSentence gender="male" locale="en_US" voice="paul">Transferring your call, please wait.</SpeakSentence>
-<Transfer transferCallerId="+19104271221" transferTo="+19197891146" requestUrl="https://raw.githubusercontent.com/dtolb/bxml/master/record.xml" callTimeout="5">
+<Transfer transferCallerId="+19104271221" transferTo="+19197891146" requestUrl="https://raw.githubusercontent.com/dtolb/bxml/master/record.xml" callTimeout="5" requestUrlTimeout="https://raw.githubusercontent.com/dtolb/bxml/master/record.xml">
 <SpeakSentence gender="male" locale="en_US" voice="paul">Inner speak sentence.</SpeakSentence>
 </Transfer>
 </Response>
