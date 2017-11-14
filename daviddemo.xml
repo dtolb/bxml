@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Response>
+
+<SpeakSentence voice="susan" gender="female">
+Your appointment is this friday at 5
+</SpeakSentence>
+
+<Hangup></Hangup>
+
+</Response>
