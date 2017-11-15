@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-    <SpeakSentence gender="male" locale="en_US" voice="paul">Transferring your call, please wait.</SpeakSentence>
+<Response> 
+<Gather requestUrl="https://requestb.in/xbukvaxb" requestUrlTimeout="10000" terminatingDigits="#" maxDigits="1">
+<SpeakSentence gender="female" locale="en_US" voice="susan">Thanks for calling Fang yee USA. Press one for Michelle, two for John, or three to leave a message.</SpeakSentence> 
+</Gather> 
 </Response>
