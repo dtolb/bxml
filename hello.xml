@@ -1,5 +1,5 @@
 <Response> 
-<Gather requestUrl="https://requestb.in/xbukvaxb?Hello=WORLD&ICE=NICE&" requestUrlTimeout="10000" terminatingDigits="#" maxDigits="1">
+<Gather requestUrl="https://requestb.in/xbukvaxb" requestUrlTimeout="10000" terminatingDigits="#" maxDigits="1" tag="scoobydooby doo">
 <SpeakSentence gender="female" locale="en_US" voice="susan">Thanks for calling Fang yee USA. Press one for Michelle, two for John, or three to leave a message.</SpeakSentence> 
 </Gather> 
 </Response>
