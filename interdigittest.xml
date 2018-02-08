@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Response>
+
+<Gather requestUrl="https://my-req-bin.herokuapp.com/ragw84ra" requestUrlTimeout="10000" interDigitTimeout="1">
+
+  <SpeakSentence gender="female" locale="en_US" voice="susan">Please, press a digit.</SpeakSentence>
+
+</Gather>
+
+</Response>
