@@ -5,7 +5,7 @@
 <SpeakSentence voice="susan" gender="female">
 Oh No! Your call was not answered, please record a message for that person then press the 1 key
 </SpeakSentence>
-<Record requestUrl="https://my-req-bin.herokuapp.com/q2hvy6q2" terminatingDigits="1">
+<Record requestUrl="https://my-req-bin.herokuapp.com/q2hvy6q2" terminatingDigits="1"/>
 
 
 </Response>
