@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Response>
+  <Gather requestUrl="https://my-req-bin.herokuapp.com/1os081x1" requestUrlTimeout="10000" terminatingDigits="#">
+    <SpeakSentence gender="female" locale="en_US" voice="susan">You have an appointment tomorrow at 10am, please press any digit to confirm.</SpeakSentence>
+  </Gather>
+</Response>
