@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Response>
+
+<PlayAudio>
+http://soundbible.com/grab.php?id=1003&type=mp3
+</PlayAudio>
+<SpeakSentence>
+You've found a golden ticket! To claim your prize go ask Chandler for some green beans!
+</SpeakSentence>
+
+</Response>
