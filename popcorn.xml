@@ -1,0 +1,4 @@
+<Response>
+<PlayAudio>https://s3.amazonaws.com/bw-demo/Ta+Da-SoundBible.com-1884170640.mp3</PlayAudio>
+<SpeakSentence gender="female" voice="kate">You've found a golden ticket! To claim your prize go ask Chandler for a bag of popcorn!</SpeakSentence>
+</Response>
