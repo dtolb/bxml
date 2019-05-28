@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
 <Response>
-
-<PlayAudio>
-https://s3.amazonaws.com/bw-demo/Ta+Da-SoundBible.com-1884170640.mp3
-</PlayAudio>
-<SpeakSentence>
-You've found a golden ticket! To claim your prize go ask Chandler for some mini snickers bars!
-</SpeakSentence>
-
+<PlayAudio>https://s3.amazonaws.com/bw-demo/Ta+Da-SoundBible.com-1884170640.mp3</PlayAudio>
+<SpeakSentence gender="female" voice="kate">You've found a golden ticket! To claim your prize go ask Chandler for some mini snickers bars!</SpeakSentence>
 </Response>
